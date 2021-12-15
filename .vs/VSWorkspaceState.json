@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\socketserver",
+    "\\src",
+    "\\src\\app",
+    "\\src\\app\\my-bar-chart",
+    "\\src\\app\\my-line-chart",
+    "\\src\\app\\my-pie-chart"
+  ],
+  "SelectedNode": "\\socketserver\\server.js",
+  "PreviewInSolutionExplorer": false
+}
